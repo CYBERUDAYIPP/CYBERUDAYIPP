@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @CYBERUDAYIPP
-- 👀 I’m A WhatsApp Moder...
-- 🌱 I’m currently learning ...
-- 💞️ I’m LOOKING FOR A NEW JOURNEY ...
-- 📫 How to reach me ...
+{
+ "version":"2.1",
+ "title":"Supreme WhatsApp V2.1 (🚨Urgent Update🚨)",
+ "button":"Update",
+ "description":"ℹ️What is newℹ️
 
-<!---
-CYBERUDAYIPP/CYBERUDAYIPP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚨Added Full Antiban
+🔴Bomb Text
+🔴Translator ( Conversation / Status )
+🔴Status Color Changer
+🔴Profile Save
+🟡Fixed More Issues
+🟡Enjoy and discover by Supreme Dev!
+🟡Other fixes and improvements",
+ "download":"https://youtu.be/JRDl6osi5nU"
+}
